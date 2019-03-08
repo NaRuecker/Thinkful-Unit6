@@ -1,2 +1,2 @@
 # Thinkful-Unit6
-Specializations
+Specializations: Inlcuding Network analysis and Time series modeling with ARIMA
